@@ -1,0 +1,20 @@
+#addpage-banner {
+  background: #9361bf;
+  padding: 10px 0;
+  font-size: 30px;
+  color: #ffffff;
+  border-width: 10cm;
+  border-color: #563870;
+}
+#addsave {
+  border: 1px solid #9462c5;
+  background: #fffeff;
+  padding: 10px 20px;
+  font-size: 16px;
+  border-radius: 0 4px 4px 0;
+  margin: 20px 0;
+}
+
+#save:hover {
+  background: #9361bf;
+}
