@@ -15,28 +15,6 @@ function show() {
   iframe1.style.display = "block";
 }
 
-// const addBtn = button["add-student"];
-// addForm.addEventListener("submit", function(e) {
-//   e.preventDefault();
-//   alert("worksss");
-// const value = addForm.querySelector('input[type="text"]').value;
-// const li = document.createElement("li");
-// const studName = document.createElement("span");
-// const deleteBtn = document.createElement("span");
-
-// // add text content
-// studName.textContent = value;
-// deleteBtn.textContent = "delete";
-
-// // add classes
-// studName.classList.add("name");
-// deleteBtn.classList.add("delete");
-
-// // append to DOM
-// li.appendChild(studName);
-// li.appendChild(deleteBtn);
-// list.appendChild(li);
-// });
 
 // hide books
 // const hideBox = document.querySelector('#hide');
